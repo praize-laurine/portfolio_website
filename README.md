@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project showcases who I am, what I do, and the projects I’ve worked on as a web developer and tech enthusiast.
 
 ## 🌐 Live Site
-[Click here to view my portfolio](https://praize-laurine.github.io/my-portfolio/)
+[Click here to view my portfolio](https://praize-laurine.github.io/portfolio_website/)
 
 ## 📌 About the Project
 
